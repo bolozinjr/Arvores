@@ -17,7 +17,6 @@ public class Arvore {
             System.out.print(no.valor + " ");
             emOrdem(no.esquerda);
             emOrdem(no.direita);
-
         }
     }
 
