@@ -7,6 +7,7 @@ public class No {
         this.valor = valor;
         esquerda = direita = null;
         this.fatorBalanceamento = 0;
+
     }
 }
 
